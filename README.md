@@ -1,6 +1,6 @@
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-<h1 align="center">Hey. My name is Artyom</h1>
+
+<h1 align="center">![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hey. My name is Artyom</h1>
 <h3 align="center">I'm a passionate Mobile Android developer</h3>
 ==============================================================================================================================
 
