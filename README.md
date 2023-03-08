@@ -7,7 +7,7 @@
 
 * 🌍  Currently located in Minsk
 * ✉️  You can contact me at [artkov37@gmail.com](mailto:artkov37@gmail.com)
-* 🚀  I'm currently working on [Expenses Tracker](http://github.com/aptemkov/ExpensesTracker)
+* 🚀  I'm currently working on [Location Reminder](http://github.com/aptemkov/LocationReminder)
 * 🧠  Now I'm learning RXJava and Kotlin Coroutines
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Interesting fact: I'm a big fan of Harry Potter
@@ -29,8 +29,9 @@
 ### Socials
 
 <p align="left"> 
-<a href="https://www.github.com/aptemkov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</a> <a href="https://www.linkedin.com/in/aptemkov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
+<a href="https://www.linkedin.com/in/aptemkov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
 </p>
 
 -----------------------------------------
