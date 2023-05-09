@@ -8,7 +8,7 @@
 * 🌍  Currently located in Minsk
 * ✉️  You can contact me at [artkov37@gmail.com](mailto:artkov37@gmail.com)
 * 🚀  I'm currently working on [Composable Store](http://github.com/aptemkov/ComposableStore)
-* 🧠  Now I'm learning RXJava and Kotlin Coroutines
+* 🧠  Now I'm learning Jetpack Compose
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Interesting fact: I'm a big fan of Harry Potter
 
