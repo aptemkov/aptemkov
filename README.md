@@ -1,14 +1,13 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <h1 align="center">Hey, I'm Artyom</h1>
-<h3 align="center">I'm a passionate Mobile Android developer</h3>
+<h3 align="center">I'm a passionate Android developer</h3>
 
 
 -----------------------------------------
 
 * 🌍  Currently located in Minsk
 * ✉️  You can contact me at [artkov37@gmail.com](mailto:artkov37@gmail.com)
-* 🚀  I'm currently working on [Composable Store](http://github.com/aptemkov/ComposableStore)
-* 🧠  Now I'm learning Jetpack Compose
+* 🚀  My latest project is [PexelsApp](http://github.com/aptemkov/PexelsApp)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Interesting fact: I'm a big fan of Harry Potter
 
